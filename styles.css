@@ -1,0 +1,19 @@
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  text-align: center;
+}
+
+.trip {
+  background-color: lavender;
+  width: 50%;
+  margin: auto;
+}
+
+img {
+  width: 60%;
+  margin: 0 20%;
+
+}
