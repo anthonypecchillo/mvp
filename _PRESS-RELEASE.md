@@ -1,4 +1,4 @@
-# Project Name #
+# FlyCheap #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -18,27 +18,28 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  > FlyCheap - Keep the money in your pocket.
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > FlyCheap helps frequent flyers minimize the cost of flying by tracking flight prices and sending notifications when prices decrease.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > FlyCheap tracks the ticket price of flights you're interested, or perhaps, the flights you've already purchased tickets for, in real time.  When a ticket price decreases below the price you paid or the price you last saw, FlyCheap sends you a notification to alert you of the new improved price!  Never pay more for airline tickets than your fellow passengers again!  With FlyCheap, you keep the money in your pocket.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > The cost of airline tickets changes with respect to time and ticket sales.  There are numerous strategies available to attempt to make a purchase at the optimal time, but in reality, these strategies rely on a speculation rather than data.  To the dismay of the customer, when you search for airline tickets it's only possible to see a ticket price instantaneously; you cannot see the price of a ticket six hours ago, and you cannot see the price six hours from now.  Thus, it is impossible to know the ideal moment to purchase a ticket.  Wouldn't it be nice if there was a way to track these prices and be notified when the cost of a refundable ticket you purchased has decreased?  Why should you pay more than the other passengers on your flight?  
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > FlyCheap scrapes ticket price data from airline company websites and tracks the changes between them over time.  Further, it allows users to add flights to their own list of flights they are watching and notifies them if that price decreases.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > "With FlyCheap, you've got the airlines by the &@()$."
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "I've saved 800 million dollars with FlyCheap in the last 3 days, and you can too!"
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
