@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>FlyCheap</title>
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="/practice.js"></script>
+</head>
+<body>
+  <h1>FlyCheap.ly</h1>
+  
+  <center>
+  <form id="form">
+    <label for="origin">Depart From:</label>
+    <input id="origin" type="text" name="originAirport" placeholder="Airport code here...">
+    
+    <label for="destination">Travel To:</label>
+    <input id="destination" type="text" placeholder="Airport code here...">
+
+    <label for="date">Departure Date:</label>
+    <input id="date" type="text" placeholder="(mm/yy) format...">
+    
+    <input id="submit" type="button" value="Submit">
+  </form>
+  </center>
+
+  <div class="trip">
+    <img src="http://becomeauthentic.files.wordpress.com/2011/12/southwest-airlines-logo1.jpg" alt="Airline">
+    <p>Your trip from SFO to LGA with Southwest Airlines: </p>
+    <p>Flight departs at: <span id="departTime"></span></p>
+    <p>Flight lands at: <span id="arriveTime"></span></p>
+    <p>You paid: $<span id="youPaid"></span></p> 
+    <p>The current price is: $<span id="currentPrice"></span></p>
+    <p>You can save $<span id="priceDiff"></span> if you cancel and rebook now!</p>
+
+  </div>
+</body>
+</html>

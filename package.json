@@ -1,0 +1,25 @@
+{
+  "name": "hrsf52-mvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonypecchillo/hrsf52-mvp.git"
+  },
+  "author": "Anthony Pecchillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonypecchillo/hrsf52-mvp/issues"
+  },
+  "homepage": "https://github.com/anthonypecchillo/hrsf52-mvp#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "path": "^0.12.7",
+    "webdriverio": "^4.6.1"
+  }
+}
